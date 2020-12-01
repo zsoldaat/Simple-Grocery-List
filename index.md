@@ -4,7 +4,7 @@ This app does not collect any data from the user whatsoever, it does not even co
 
 ## Support
 
-For questions, feedback, or bug reports, please email zac.soldaat@gmail.com
+For questions, feedback or bug reports, please email zac.soldaat@gmail.com
 
 # Screenshots
 
