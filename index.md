@@ -38,7 +38,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # Screenshots
 
-![Test](/Users/zacsoldaat/Desktop/Simulator Screen Shot - iPhone 11 Pro Max - 2020-12-01 at 10.52.52.png)
+[Recipe View](https://imgur.com/AgkX1pg)
+[Grocery List](https://imgur.com/e0K9Vv9)
+[Ingredients](https://imgur.com/x5SfrqK)
+[Recipes Overview](https://imgur.com/nZgWZTQ)
 
 ## Support
 
