@@ -38,10 +38,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # Screenshots
 
-[Recipe View](https://imgur.com/AgkX1pg)
-[Grocery List](https://imgur.com/e0K9Vv9)
-[Ingredients](https://imgur.com/x5SfrqK)
-[Recipes Overview](https://imgur.com/nZgWZTQ)
+![Recipe View](https://imgur.com/AgkX1pg)
+![Grocery List](https://imgur.com/e0K9Vv9)
+![Ingredients](https://imgur.com/x5SfrqK)
+![Recipes Overview](https://imgur.com/nZgWZTQ)
 
 ## Support
 
