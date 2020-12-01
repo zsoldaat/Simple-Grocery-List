@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # Screenshots
 
-![/Users/zacsoldaat/Desktop/Simulator Screen Shot - iPhone 11 Pro Max - 2020-12-01 at 10.52.52.png]
+![Test](/Users/zacsoldaat/Desktop/Simulator Screen Shot - iPhone 11 Pro Max - 2020-12-01 at 10.52.52.png)
 
 ## Support
 
