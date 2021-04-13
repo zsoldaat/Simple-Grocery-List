@@ -1,7 +1,7 @@
 # ScreenShots
 
-<img src="https://i.imgur.com/UlVsiat.png" width="25%"><img src="https://i.imgur.com/p20pazB.png" width="25%"><img src="https://i.imgur.com/lfTnEzb.png" width="25%">
-//<img src="https://i.imgur.com/G6jTqS8.png" width="25%">
+<img src="https://i.imgur.com/UlVsiat.png" width="33%"><img src="https://i.imgur.com/p20pazB.png" width="33%"><img src="https://i.imgur.com/lfTnEzb.png" width="33%">
+<!--  <img src="https://i.imgur.com/G6jTqS8.png" width="25%"> -->
 
 
 # Description
