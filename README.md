@@ -1,6 +1,6 @@
 # ScreenShots
 
-![Recipe View](https://i.imgur.com/p20pazB.png)
+![Recipe View](https://i.imgur.com/p20pazB.png | width = 100)
 ![Grocery List View](https://i.imgur.com/lfTnEzb.png)
 ![Ingredients View](https://i.imgur.com/G6jTqS8.png)
 ![My Recipies View](https://i.imgur.com/UlVsiat.png)
