@@ -1,7 +1,6 @@
 # ScreenShots
 
-<img src="https://i.imgur.com/p20pazB.png" width="40%">
-<img src="https://i.imgur.com/lfTnEzb.png" width="40%">
+<img src="https://i.imgur.com/p20pazB.png" width="40%"> <img src="https://i.imgur.com/lfTnEzb.png" width="40%">
 <img src="https://i.imgur.com/G6jTqS8.png" width="40%">
 <img src="https://i.imgur.com/UlVsiat.png" width="40%">
 
