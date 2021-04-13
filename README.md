@@ -1,6 +1,6 @@
 # ScreenShots
 
-![Recipe View](https://github.com/zsoldaat/simple-grocery-list/blob/main/Simulator Screen Shot - iPhone 11 Pro Max - 2020-12-01 at 10.52.52.png?raw=true)
+![Recipe View](https://i.imgur.com/p20pazB.png)
 
 ![Recipe View](Simulator Screen Shot - iPhone 11 Pro Max - 2020-12-01 at 10.52.52.png) ![Grocery List](Simulator Screen Shot - iPhone 11 Pro Max - 2020-12-01 at 10.52.58.png) ![Ingredients](Simulator Screen Shot - iPhone 11 Pro Max - 2020-12-01 at 10.56.05.png) ![Recipes Overview](Simulator Screen Shot - iPhone 11 Pro Max - 2020-12-01 at 10.55.13.png)
 
