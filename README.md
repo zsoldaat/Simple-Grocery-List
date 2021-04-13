@@ -1,11 +1,9 @@
 # ScreenShots
 
 <img src="https://i.imgur.com/p20pazB.png" width="40%">
-
-![Recipe View](https://i.imgur.com/p20pazB.png)
-![Grocery List View](https://i.imgur.com/lfTnEzb.png)
-![Ingredients View](https://i.imgur.com/G6jTqS8.png)
-![My Recipies View](https://i.imgur.com/UlVsiat.png)
+<img src="https://i.imgur.com/lfTnEzb.png" width="40%">
+<img src="https://i.imgur.com/G6jTqS8.png" width="40%">
+<img src="https://i.imgur.com/UlVsiat.png" width="40%">
 
 # Description
 
